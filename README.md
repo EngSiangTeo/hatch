@@ -1,4 +1,4 @@
-# hatch
+# Hatch
 **Main Features:** Covid-19 Hotspot Visualisation and Place suggestion
 
 The objective of this project is to develop a website which aids Singaporeans in planning their outings. Users are able to select a specific location and view the relevant information about the place. Alternatively, they can choose a region in Singapore (e.g. Yishun) where the website will suggest nearby activities or food places that they can visit.
